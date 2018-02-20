@@ -2,8 +2,8 @@
 This is a natural language processing project using subtitle files from Game of Thrones Season7.
 
 1. Natural Language Processing using (NLTK)
-1.1. tokenize words from each document
-1.1. filter out stop words and stem the remaining
+a__ tokenize words from each document
+b__ filter out stop words and stem the remaining
 c. rank the most-used 100 words
 d. count word frequency by episode
 

@@ -1,2 +1,2 @@
 # Game-of-thrones-analysis
-# Natural Language Processing of 
+This is a natural language processing project using subtitles from Game of Thrones Season7 
